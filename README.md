@@ -45,9 +45,17 @@ Since a young age, I've been drawn to technology, web development, and design �
 
 ### 📌 Featured Projects
 
-- 🔗 [My OSSU Math Progress](https://github.com/YourUsername/precollege-math)
-- 🧮 [CS50 Problem Sets](https://github.com/YourUsername/CS50)
-- 🧠 [Algorithms & Practice](https://github.com/YourUsername/algorithms)
+- 🔗 [test1](https://github.com/YourUsername/precollege-math)
+- 🧮 [test2](https://github.com/YourUsername/CS50)
+- 🧠 [test3](https://github.com/YourUsername/algorithms)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Ashraf-Saber&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 ---
 
@@ -57,10 +65,24 @@ Since a young age, I've been drawn to technology, web development, and design �
 - 🌐 Portfolio (Coming Soon)
 - 📧 Email: aabd203.elnagdy@example.com
 - 💬 LinkedIn: [linkedin.com/in/aelnagdy](https://linkedin.com/in/aelnagdy)
-- 📍 Based in Egypt — but my mind lives on the internet.
+- 📍 Based in Egypt, Cairo — but my mind lives on the internet.
 
 ---
 
 <p align="center">
   <i>"Code is not just about machines — it's about the minds that shape them."</i>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HdnObj&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
+### 🐍 Contribution Graph
+
+<br clear="both">
+
+<img src="https://github.com/Ibrahim-Ashraf-Saber/Ibrahim-Ashraf-Saber/raw/output/snake.svg" alt="Snake animation" />
+
+---
