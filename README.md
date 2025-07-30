@@ -14,8 +14,10 @@ I'm a curious and driven developer with a deep passion for computer science, art
 
 Since a young age, I've been drawn to technology, web development, and design — not just as tools, but as forms of expression and innovation.
 
+- 🎓 Engineering Student | Cairo University
 - 🧠 Currently learning: Core CS via [OSSU Curriculum](https://cs.ossu.dev/)
 - 🧩 Interested in: Algorithms, AI, Systems Thinking, and Software Architecture
+- 🛠️ I enjoy building, breaking, and rebuilding ideas
 - 💡 Exploring: Clean Code, Scalable Systems, and Problem-Solving as an art
 - 🌱 Always growing through hands-on learning, open-source, and curiosity
 
@@ -50,10 +52,12 @@ Since a young age, I've been drawn to technology, web development, and design �
 ---
 
 ### 📫 Let's Connect
+💬 I'm always open to collaborate, discuss, or brainstorm.
 
 - 🌐 Portfolio (Coming Soon)
-- 📧 Email: your.email@example.com
-- 💬 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- 📧 Email: aabd203.elnagdy@example.com
+- 💬 LinkedIn: [linkedin.com/in/aelnagdy](https://linkedin.com/in/aelnagdy)
+- 📍 Based in Egypt — but my mind lives on the internet.
 
 ---
 
