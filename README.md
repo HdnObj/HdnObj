@@ -69,6 +69,7 @@ Since a young age, I've been drawn to technology, web development, and design �
 
 - 🌐 Portfolio (Coming Soon)
 - 📧 Email: aabd203.elnagdy@example.com
+- 👨‍💻 All of my projects are available at: 
 - 💬 LinkedIn: [linkedin.com/in/aelnagdy](https://linkedin.com/in/aelnagdy)
 - 📍 Based in Egypt, Cairo — but my mind lives on the internet.
 
