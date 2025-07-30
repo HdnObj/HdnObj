@@ -1,3 +1,5 @@
+<img src="https://your-image-url.com/cover.jpg" alt="Cover" style="width:100%; height:auto;" />
+
 <h1 align="center">👋 Hi, I'm Abdelrahman</h1>
 
 <p align="center">
