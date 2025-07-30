@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/HdnObj/HdnObj/main/bgg.jpg" alt="Cover" style="width:100%; height:auto;" />
+<img src="https://raw.githubusercontent.com/HdnObj/HdnObj/main/github_background.png" alt="Cover" style="width:100%; height:auto;" />
 
 
 <h1 align="center">👋 Hi, I'm Abdelrahman</h1>
