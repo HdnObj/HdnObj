@@ -1,4 +1,5 @@
-<img src="https://your-image-url.com/cover.jpg" alt="Cover" style="width:100%; height:auto;" />
+<img src="https://raw.githubusercontent.com/HdnObj/HdnObj/main/bgg.jpg" alt="Cover" style="width:100%; height:auto;" />
+
 
 <h1 align="center">👋 Hi, I'm Abdelrahman</h1>
 
@@ -27,8 +28,8 @@ Since a young age, I've been drawn to technology, web development, and design �
 
 | Track                | Status        |
 |---------------------|---------------|
-| [Pre-College Math](https://github.com/HdnObj/precollege-math)     | 🟡 |
-| Core CS (OSSU)       | 🟡 |
+| [Pre-College Math / high school math](https://github.com/HdnObj/precollege-math)     | 🟡 |
+| [Computer Science Curriculum (OSSU)](https://github.com/HdnObj/computer-science)       | 🟡 |
 | Personal Projects    | 🟢 |
 | AI & Machine Learning| ⚪ |
 
