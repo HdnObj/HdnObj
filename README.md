@@ -78,11 +78,3 @@ Since a young age, I've been drawn to technology, web development, and design â€
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HdnObj&style=flat-square&color=blue" alt="Profile Views" />
 </p>
-
-### ğŸ Contribution Graph
-
-<br clear="both">
-
-<img src="https://github.com/HdnObj/raw/output/snake.svg" alt="Snake animation" />
-
----
