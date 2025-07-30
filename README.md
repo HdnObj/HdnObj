@@ -83,6 +83,6 @@ Since a young age, I've been drawn to technology, web development, and design â€
 
 <br clear="both">
 
-<img src="https://github.com/Ibrahim-Ashraf-Saber/Ibrahim-Ashraf-Saber/raw/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/HdnObj/HdnObj/raw/output/snake.svg" alt="Snake animation" />
 
 ---
