@@ -27,10 +27,10 @@ Since a young age, I've been drawn to technology, web development, and design �
 
 | Track                | Status        |
 |---------------------|---------------|
-| Pre-College Math     | 🟡 In Progress     |
-| Core CS (OSSU)       | 🟡 In Progress   |
-| Personal Projects    | 🟢 Ongoing       |
-| AI & Machine Learning| ⚪ Coming Soon   |
+| Pre-College Math     | 🟡 |
+| Core CS (OSSU)       | 🟡 |
+| Personal Projects    | 🟢 |
+| AI & Machine Learning| ⚪ |
 
 ✅ Completed
 🟡 In Progress
