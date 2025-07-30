@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 About Me
+### 🤓 About Me
 
 I'm a curious and driven developer with a deep passion for computer science, artificial intelligence, and building things that matter.
 
