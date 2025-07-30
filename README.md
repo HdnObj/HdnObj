@@ -27,7 +27,7 @@ Since a young age, I've been drawn to technology, web development, and design �
 
 | Track                | Status        |
 |---------------------|---------------|
-| Pre-College Math (https://github.com/HdnObj/precollege-math)     | 🟡 |
+| [Pre-College Math](https://github.com/HdnObj/precollege-math)     | 🟡 |
 | Core CS (OSSU)       | 🟡 |
 | Personal Projects    | 🟢 |
 | AI & Machine Learning| ⚪ |
